@@ -90,7 +90,7 @@ O arquivo Excel contém as seguintes abas:
 ## 📧 **Contato**
 Caso tenha dúvidas ou sugestões, entre em contato:
 
-- **Desenvolvedor**: Felipe Zanirato, Janderson, Samuel Felipe e Lucas.
+- **Desenvolvedores**: Felipe Zanirato, Janderson, Samuel Felipe e Lucas.
 - **E-mail**: felipe.zanirato@outlook.com
 - **GitHub**: https://github.com/felpoka
 
