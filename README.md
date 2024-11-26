@@ -1,4 +1,4 @@
-# Projeto de Cadastro de Funcionários com VBA no Excel
+# Projeto de Cadastro de Funcionários com VBA no Excel 💻
 
 Este projeto implementa um sistema de **cadastro de funcionários, escolas e equipamentos de proteção individual (EPIs)** utilizando **VBA (Visual Basic for Applications)** no Microsoft Excel. A aplicação segue o método **CRUD** (Create, Read, Update e Delete), permitindo gerenciar eficientemente os dados diretamente em planilhas do Excel.
 
