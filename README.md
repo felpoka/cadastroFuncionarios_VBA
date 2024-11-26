@@ -90,9 +90,9 @@ O arquivo Excel contém as seguintes abas:
 ## 📧 **Contato**
 Caso tenha dúvidas ou sugestões, entre em contato:
 
-- **Desenvolvedor**: [Seu Nome]
-- **E-mail**: seuemail@exemplo.com
-- **GitHub**: [Seu GitHub](https://github.com/seuusuario)
+- **Desenvolvedor**: Felipe Zanirato, Janderson, Samuel Felipe e Lucas.
+- **E-mail**: felipe.zanirato@outlook.com
+- **GitHub**: https://github.com/felpoka
 
 ---
 
